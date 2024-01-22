@@ -24,7 +24,7 @@ def handle_message(message):
         reply_message = f"Ok {user_firstname}, I'm not sure exactly what you're trying to start here."
 
         # Introduce a 3-second delay
-        time.sleep(3)
+        time.sleep(1)
 
         bot.reply_to(message, reply_message)
         return

@@ -7,7 +7,7 @@ bot = telebot.TeleBot('6415657881:AAEcmrS29pF6GBF04Cdq9VTZW2Ol9a9o5mQ')
 group_chat_id = -1001221225011  # Replace with your group's chat ID
 
 # Forbidden keywords for deletion
-forbidden_keywords = ['Episode', 'series', 'share', 'post', 'link', 'movie', 'movies', 'season 2', 'season 3', 'Upload', 'Adulting','session', 'Lockdown', 'Download', 'save', 'gallery', 'phone', 'anyone' 'any' 'Any1']
+forbidden_keywords = ['Episode', 'series', 'share', 'post', 'link', 'movie', 'movies', 'season 2', 'season 3', 'Upload', 'Adulting','session', 'Lockdown', 'Download', 'save', 'gallery', 'phone', 'anyone' 'any', 'Any1', 'inbox', 'dm', 'facebook', 'tik tok', 'whatsapp', 'join', 'data', 'account', 'sellling', 'sell', 'buy', 'ha', 'channel', 'soon comes night', 'ink', 'of durban']
 
 # Keywords for exclusion
 exclusion_keywords = ['Outlaws', 'outlaw', 'this', 'when',  'end', 'ending', 'ending']

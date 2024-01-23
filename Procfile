@@ -1,1 +1,1 @@
-worker: python maxmanage.py
+worker: python Paulbot.py

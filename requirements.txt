@@ -1,10 +1,1 @@
-pytelegrambotapi
-schedule
-fuzzywuzzy
-emoji
-beautifulsoup4
-python-telegram-bot
-requests
-tmdbv3api
 telebot
-python-Levenshtein
